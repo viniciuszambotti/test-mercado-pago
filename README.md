@@ -3,10 +3,8 @@
 This repository contains the analysis and forecasting work done for the Mercado Pago test. The project is organized into different folders, each containing specific components of the analysis, including data exploration, forecasting models, and visualizations.
 
 ## Folder Structure
-
-- **context**: This folder provides the context and overview of the test.
   
-- **dashboard.pbi**: Power BI dashboard for data analysis visualization.
+- **MELI.pbi**: Power BI dashboard for data analysis visualization.
 
 - **data analysis**: Contains notebooks and related files for data analysis.
   - **Teste_MELI.ipynb**: Jupyter Notebook with the data analysis process.
