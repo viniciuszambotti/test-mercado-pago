@@ -4,7 +4,7 @@ This repository contains the analysis and forecasting work done for the Mercado 
 
 ## Folder Structure
   
-- **MELI.pbi**: Power BI dashboard for data analysis visualization.
+- **MELI.pbix**: Power BI dashboard for data analysis visualization.
 
 - **data analysis**: Contains notebooks and related files for data analysis.
   - **Teste_MELI.ipynb**: Jupyter Notebook with the data analysis process.
