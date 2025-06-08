@@ -9,7 +9,7 @@ This repository contains the analysis and forecasting work done for the Mercado 
 - **data analysis**: Contains notebooks and related files for data analysis.
   - **Teste_MELI.ipynb**: Jupyter Notebook with the data analysis process.
   - **Teste_MELI.pdf**: The PDF version of the analysis notebook.
-  - **varios.xlsx**: Various Excel files with the results of the analysis.
+  - **xlsx files**: Various Excel files with the results of the analysis.
 
 - **forecast**: Contains files related to time series forecasting.
   - **Time Series Forecasting Models.ipynb**: Jupyter Notebook that explains the time series forecasting models used.
